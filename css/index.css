@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Paperlogy-6SemiBold';
+}
+
+:root {
+    --white: #ffffff;
+    --black: #000000;
+    --unique-color: #ff6d6d;
+    --unique-hover: #ff9d9d;
+    --dark-white: #f5f5f5;
+    --darker-white: #dddddd;
+}
+
+.css-wb-title {
+    background: var(--white);
+    color: var(--black);
+}
+
+a {
+    color: var(--black);
+    text-decoration: none;
+}
+
+a:where(:hover, :focus) {
+    text-decoration: underline;
+}
+
+body {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background: var(--black);
+}
+
+.css-foreground-content {
+    z-index: 999;
+    position: absolute;
+}
+
+/* 제일 마지막 */
+.css-background-video {
+    width: 100%;
+    height: 100%;
+}
+
+.css-background-video > video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    filter: blur(10px);
+    opacity: .7;
+}

@@ -1,0 +1,55 @@
+.css-main-title {
+    margin-top: 3%;
+    margin-left: 50px;
+    font-size: 70px;
+}
+
+.css-main-title span {
+    padding: 5px;
+    background: var(--white);
+}
+
+.css-main-title > span.mc-fun, span.mc-mods {
+    display: inline-block;
+    background-size: 200%;
+    background-image: linear-gradient(to right, var(--unique-color) 50%, var(--unique-hover) 50%);
+    transition: background-position 1s;
+}
+
+.css-main-title > span.mc-fun:hover, span.mc-mods:hover {
+    background-position: -100%;
+}
+
+.css-menu-bar {
+    margin-top: 10%;
+    margin-left: 50px;
+    font-size: 50px;
+}
+
+.css-menu-bar span {
+    padding: 5px;
+    background: var(--white);
+}
+
+.css-menu-bar span.st-ds { /* st-description */
+    display: inline-block;
+    font-size: 30px;
+    background-size: 200%;
+    background-image: linear-gradient(to right, #aaaaaa 50%, #cccccc 50%);
+    transition: background-position 1s;
+}
+
+.css-menu-bar > span.st-ds:hover {
+    background-position: -100%;
+}
+
+.css-menu-bar > span:where(.st-menu, .st-dl, .st-credits) {
+    display: inline-block;
+    background-size: 200%;
+    background-image: linear-gradient(to right, var(--darker-white) 50%, var(--unique-color) 50%);
+    transition: background-position .5s;
+}
+
+.css-menu-bar > span:where(.st-menu, .st-dl, .st-credits):hover {
+    background-position: -100%;
+}
