@@ -7,38 +7,6 @@
             "useVanilla":true,
             "version":"1.20.1",
             "packLink":"https://dl.dropboxusercontent.com/scl/fi/fq7vw9zcthex3zqnn9yhd/241021_latest_gunmod.zip?rlkey=jcj8gxp3xs9u95vphs2zxeyih&st=pb07pc4f"
-        },
-        {
-            "id":"rqxg5v",
-            "name":"테스트 #1",
-            "description":"테스트 모드팩 1번, 비어있음",
-            "useVanilla":false,
-            "version":"None",
-            "packLink":""
-        },
-        {
-            "id":"fqga2q",
-            "name":"테스트 #2",
-            "description":"테스트 모드팩 2번, 비어있음",
-            "useVanilla":false,
-            "version":"None",
-            "packLink":""
-        },
-        {
-            "id":"dc17jm",
-            "name":"테스트 #3",
-            "description":"테스트 모드팩 3번, 비어있음",
-            "useVanilla":false,
-            "version":"None",
-            "packLink":""
-        },
-        {
-            "id":"1zc32z",
-            "name":"테스트 #4",
-            "description":"테스트 모드팩 4번, 비어있음",
-            "useVanilla":false,
-            "version":"None",
-            "packLink":""
         }
     ]
 }
