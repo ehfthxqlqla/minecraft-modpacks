@@ -1,0 +1,22 @@
+{
+    "available":[
+        {
+            "id":"y8rn0b",
+            "name":"1.20.1 총모드",
+            "description":"하늘섬 전쟁, 스플리프, 캐주얼 등을 위한 모드팩",
+            "useVanilla":true,
+            "version":"1.20.1",
+            "packLink":"https://dl.dropboxusercontent.com/scl/fi/fq7vw9zcthex3zqnn9yhd/241021_latest_gunmod.zip?rlkey=jcj8gxp3xs9u95vphs2zxeyih&st=wod8w8y8",
+            "loader":"forge"
+        },
+        {
+            "id":"XgD2JL",
+            "name":"2024 F&A II",
+            "description":"기계모드(create) 농사모드 등 여러 힐링 모드팩",
+            "useVanilla":false,
+            "version":"1.20.1",
+            "packLink":"https://dl.dropboxusercontent.com/scl/fi/psfz3xrywlosqlbq1zg79/F-A-II-2024-Full-Pack.zip?rlkey=6beyj7oqt91774qm1pz21p7ag&st=q9z1ld6c",
+            "loader":"fabric"
+        }
+    ]
+}
