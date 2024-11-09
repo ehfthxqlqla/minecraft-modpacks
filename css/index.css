@@ -33,11 +33,13 @@ body {
     width: 100vw;
     height: 100vh;
     background: var(--black);
+    overflow-x: hidden;
 }
 
 .css-foreground-content {
     z-index: 999;
     position: absolute;
+    overflow-x: hidden;
 }
 
 /* 제일 마지막 */
@@ -50,6 +52,24 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    filter: blur(10px);
+    /* filter: blur(10px); */
     opacity: .7;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #fff;
+    background-clip: padding-box;
+    border-radius: 15px;
+    border-width: 4px;
+    border-color: transparent;
+}
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+    box-shadow: transparent 0 0 0 inset;
+    border: 0;
 }

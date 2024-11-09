@@ -43,13 +43,44 @@
     background-position: -100%;
 }
 
-.css-menu-bar > span:where(.st-menu, .st-dl, .st-credits) {
+.css-menu-bar > span:where(.st-menu, .st-dl) {
     display: inline-block;
     background-size: 200%;
     background-image: linear-gradient(to right, var(--darker-white) 50%, var(--unique-color) 50%);
     transition: background-position .5s;
 }
 
-.css-menu-bar > span:where(.st-menu, .st-dl, .st-credits):hover {
+.css-menu-bar > span:where(.st-menu, .st-dl):hover {
     background-position: -100%;
+}
+
+.css-menu-bar > span.st-credits {
+    display: inline-block;
+    background-size: 200%;
+    background-image: linear-gradient(to right, var(--dark-white) 50%, var(--unique-color) 50%);
+    transition: background-position .5s;
+}
+
+.css-menu-bar > span.st-credits:hover {
+    background-position: -100%;
+}
+
+.css-menu-bar > span.st-credits > a { /* 간편설치기 강조 */
+    font-size: 60px;
+}
+
+.css-mods-divide-line {
+    margin-top: 75px;
+    margin-bottom: 15px;
+}
+
+.st-novirus {
+    font-size: 25px;
+}
+
+.st-program {
+    display: inline-block;
+    background-size: 200%;
+    background-image: linear-gradient(to right, var(--dark-white) 50%, var(--unique-color) 50%);
+    transition: background-position .5s;
 }

@@ -18,7 +18,7 @@ const ascend_counter = (element, max, suffix) => {
 
 const mods_count_span = document.querySelector("span.mc-mods")
 
-ascend_counter(mods_count_span, 50, "+")
+ascend_counter(mods_count_span, 100, "+")
 
 /**
  * code starts
