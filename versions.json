@@ -12,10 +12,28 @@
         {
             "id":"XgD2JL",
             "name":"2024 F&A II",
-            "description":"기계모드(create) 농사모드 등 여러 힐링 모드팩",
+            "description":"기계모드(create) 농사모드 등 여러 힐링 모드팩 (2024)",
             "useVanilla":false,
             "version":"1.20.1",
             "packLink":"https://dl.dropboxusercontent.com/scl/fi/psfz3xrywlosqlbq1zg79/F-A-II-2024-Full-Pack.zip?rlkey=6beyj7oqt91774qm1pz21p7ag&st=q9z1ld6c",
+            "loader":"fabric"
+        },
+        {
+            "id":"9JuRGu",
+            "name":"2025 F&A III C/S Pack",
+            "description":"기계모드(create) 농사모드 등 여러 힐링 모드팩 (커스텀팩/CS)",
+            "useVanilla":false,
+            "version":"1.20.1",
+            "packLink":"https://www.dropbox.com/scl/fi/ze76ib1uun646wcpr18h7/F-A-III-2025-CS-Pack.zip?rlkey=kjx3elrf36f4c3895c1wtvvkl&raw=1",
+            "loader":"fabric"
+        },
+        {
+            "id":"fIDaQD",
+            "name":"2025 F&A III Full Pack",
+            "description":"기계모드(create) 농사모드 등 여러 힐링 모드팩 (풀팩/Full)",
+            "useVanilla":false,
+            "version":"1.20.1",
+            "packLink":"https://www.dropbox.com/scl/fi/xqr8t2z25owln7xequvg9/F-A-III-2025-Full-Pack.zip?rlkey=q4ub56muc9j4lj94nipgouw0u&raw=1",
             "loader":"fabric"
         }
     ]
