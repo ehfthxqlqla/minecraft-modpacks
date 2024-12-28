@@ -35,6 +35,15 @@
             "version":"1.20.1",
             "packLink":"https://www.dropbox.com/scl/fi/xqr8t2z25owln7xequvg9/F-A-III-2025-Full-Pack.zip?rlkey=q4ub56muc9j4lj94nipgouw0u&raw=1",
             "loader":"fabric"
+        },
+        {
+            "id":"rkvjwb",
+            "name":"1.21 롤러코스터 only",
+            "description":"단일 롤코모드",
+            "useVanilla":false,
+            "version":"1.20.1",
+            "packLink":"https://www.dropbox.com/scl/fi/j1kdmii829c2m380s1rc4/roller_coaster.zip?rlkey=895jyona7dtmnxt2e919g6g9u&st=o8oyzirf&raw=1",
+            "loader":"fabric"
         }
     ]
 }
