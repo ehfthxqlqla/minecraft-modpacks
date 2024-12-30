@@ -44,6 +44,15 @@
             "version":"1.20.1",
             "packLink":"https://www.dropbox.com/scl/fi/j1kdmii829c2m380s1rc4/roller_coaster.zip?rlkey=895jyona7dtmnxt2e919g6g9u&st=o8oyzirf&raw=1",
             "loader":"fabric"
+        },
+        {
+            "id":"FvmrZ5",
+            "name":"1.20.1 도시서버",
+            "description":"아파트 서버",
+            "useVanilla":false,
+            "version":"1.20.1",
+            "packLink":"https://www.dropbox.com/scl/fi/ni2qm51xnqxnbz36op02q/2025_APT_City.zip?rlkey=fgxec1y3xdcga5q5sq207w4p3&st=2rf3ad9p&raw=1",
+            "loader":"fabric"
         }
     ]
 }
