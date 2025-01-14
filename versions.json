@@ -53,6 +53,15 @@
             "version":"1.20.1",
             "packLink":"https://www.dropbox.com/scl/fi/ni2qm51xnqxnbz36op02q/2025_APT_City.zip?rlkey=fgxec1y3xdcga5q5sq207w4p3&st=2rf3ad9p&raw=1",
             "loader":"fabric"
+        },
+        {
+            "id":"6L7R9r",
+            "name":"1.18.2 볼트헌터",
+            "description":"for 이승재",
+            "useVanilla":true,
+            "version":"1.18.2",
+            "packLink":"https://www.dropbox.com/scl/fi/j1bkc71xvubfcqjhy3rjl/2025_Vaulthunter.zip?rlkey=47utcjq4q7h58m90t08ntyj5s&st=x6cd13qk&raw=1",
+            "loader":"forge"
         }
     ]
 }
