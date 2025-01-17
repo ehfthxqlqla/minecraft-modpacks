@@ -62,6 +62,15 @@
             "version":"1.18.2",
             "packLink":"https://www.dropbox.com/scl/fi/j1bkc71xvubfcqjhy3rjl/2025_Vaulthunter.zip?rlkey=47utcjq4q7h58m90t08ntyj5s&st=x6cd13qk&raw=1",
             "loader":"forge"
+        },
+        {
+            "id":"pZvafB",
+            "name":"타이쿤 경쟁",
+            "description":"음식을 만들어 팔고, 경쟁하세요!",
+            "useVanilla":false,
+            "version":"1.20.1",
+            "packLink":"https://www.dropbox.com/scl/fi/mj044y944xqiyy19th0bq/2025_Tycoon.zip?rlkey=6mvntpwbxgdgd877xvu8c9u6b&st=4q4aky0c&raw=1",
+            "loader":"fabric"
         }
     ]
 }
