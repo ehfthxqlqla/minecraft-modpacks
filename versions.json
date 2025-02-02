@@ -71,6 +71,15 @@
             "version":"1.20.1",
             "packLink":"https://www.dropbox.com/scl/fi/mj044y944xqiyy19th0bq/2025_Tycoon.zip?rlkey=6mvntpwbxgdgd877xvu8c9u6b&st=4q4aky0c&raw=1",
             "loader":"fabric"
+        },
+        {
+            "id":"yTeiOb",
+            "name":"1.21.4 편의성 모드",
+            "description":"셰이더, 발소리, 편의성 모드 목록",
+            "useVanilla":false,
+            "version":"1.21.4",
+            "packLink":"https://www.dropbox.com/scl/fi/fxnph8641gw8ko2vsvtmf/1.21.4-convinience.zip?rlkey=u2iq7kaga2pq4a5u8yitwnait&st=o0xqdanx&draw=1",
+            "loader":"fabric"
         }
     ]
 }
