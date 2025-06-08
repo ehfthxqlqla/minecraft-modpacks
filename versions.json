@@ -85,7 +85,7 @@
             "id":"nVX9r7",
             "name":"1.20.1 총&탱크모드",
             "description":"기존 1번 총모드 + 탱크모드",
-            "useVanilla":false,
+            "useVanilla":true,
             "version":"1.20.1",
             "packLink":"https://www.dropbox.com/scl/fi/qghq72r535u718tdlvnx7/new_gunmod_with_tank_1.20.1.zip?rlkey=tzjw55ojwlj05cgkd0hq2rtbv&st=4k3c3fh8&raw=1",
             "loader":"forge"
