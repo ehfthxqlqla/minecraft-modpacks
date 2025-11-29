@@ -98,7 +98,17 @@
             "version":"1.20.1",
             "packLink":"https://www.dropbox.com/scl/fi/sjgnla69libmensnxbodh/gunwild.zip?rlkey=9eqqqyt6nhjw5pm9vyxqjd5gm&st=bpleeuuz&raw=1",
             "loader":"forge"
+        },
+        {
+            "id":"zy2A4M",
+            "name":"1.21.1 장준포켓몬",
+            "description":"포켓몬+최적화",
+            "useVanilla":true,
+            "version":"1.21.1",
+            "packLink":"https://www.dropbox.com/scl/fi/eztu5lmt1qgsc2p4v3xbh/jangwns_pokemon.zip?rlkey=s8r0gzjouutwwqbj8bvgx6x1s&st=ijcx77gp&raw=1",
+            "loader":"forge"
         }
     ]
 }
+
 
