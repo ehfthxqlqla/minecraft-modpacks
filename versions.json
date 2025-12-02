@@ -107,9 +107,19 @@
             "version":"1.21.1",
             "packLink":"https://www.dropbox.com/scl/fi/dmpn4o4wpk42mik7koxc0/jangwns_pokemon.zip?rlkey=07v5f15h7ix3nfu1o13layn3j&st=qvuj710n&raw=1",
             "loader":"forge"
+        },
+        {
+            "id":"DDCfrn",
+            "name":"1.20.1 총 하드코어",
+            "description":"총야생 + 하드코어에 적합한 버전, 총 최신버전 (v1.1.7)",
+            "useVanilla":true,
+            "version":"1.20.1",
+            "packLink":"https://files.catbox.moe/th30sn.zip",
+            "loader":"forge"
         }
     ]
 }
+
 
 
 
