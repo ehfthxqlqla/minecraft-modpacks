@@ -114,11 +114,12 @@
             "description":"총야생 + 하드코어에 적합한 버전, 총 최신버전 (v1.1.7)",
             "useVanilla":true,
             "version":"1.20.1",
-            "packLink":"https://www.dropbox.com/scl/fi/54vemmjzitd21mt2pwzng/gunwild_w_shaders.zip?rlkey=x4ae9jlzo4j2ed0cvktqprcly&st=mbosqey3&raw=1",
+            "packLink":"https://www.dropbox.com/scl/fi/54vemmjzitd21mt2pwzng/gunwild_w_shaders.zip?rlkey=x4ae9jlzo4j2ed0cvktqprcly&st=e6aafk4g&raw=1",
             "loader":"forge"
         }
     ]
 }
+
 
 
 
